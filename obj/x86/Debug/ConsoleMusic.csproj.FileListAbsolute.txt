@@ -1,0 +1,7 @@
+C:\Users\ShadeHero\Documents\Projects\ConsoleMusic\ConsoleMusic\bin\Debug\ConsoleMusic.exe
+C:\Users\ShadeHero\Documents\Projects\ConsoleMusic\ConsoleMusic\bin\Debug\ConsoleMusic.pdb
+C:\Users\ShadeHero\Documents\Projects\ConsoleMusic\ConsoleMusic\bin\Debug\NAudio.dll
+C:\Users\ShadeHero\Documents\Projects\ConsoleMusic\ConsoleMusic\bin\Debug\System.Drawing.dll
+C:\Users\ShadeHero\Documents\Projects\ConsoleMusic\ConsoleMusic\bin\Debug\System.Windows.Forms.dll
+C:\Users\ShadeHero\Documents\Projects\ConsoleMusic\ConsoleMusic\obj\x86\Debug\ConsoleMusic.exe
+C:\Users\ShadeHero\Documents\Projects\ConsoleMusic\ConsoleMusic\obj\x86\Debug\ConsoleMusic.pdb
